@@ -1,1 +1,7 @@
-# Suicides_Attempted_In_India
+# Suicides Attempted in India(2021) | Power BI
+
+Created the dashboard on the government based suicidal data (by different
+geders) as per 2021.
+
+Created the slicer to gain the insights about the number of suicide had been
+attempted in different states and UTs in India.
